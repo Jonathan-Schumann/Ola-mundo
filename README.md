@@ -1,3 +1,6 @@
 # Olá, mundo!
-Primeiro repositório do curso de git e github
-criado durante a aula 5
+Primeiro repositório do curso de git e github.
+
+Criado durante a aula 5
+
+Linha adicionada remotamente.
